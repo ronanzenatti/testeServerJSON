@@ -1,0 +1,22 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Coca-Cola",
+      "vencimento": "2021-03-12",
+      "preco": 5.55
+    },
+    {
+      "nome": "Mentos",
+      "vencimento": "2023-12-31",
+      "preco": 1.78,
+      "id": 2
+    },
+    {
+      "nome": "Teste asasdasdfa",
+      "vencimento": "1988-02-25",
+      "preco": 25.52,
+      "id": 3
+    }
+  ]
+}
