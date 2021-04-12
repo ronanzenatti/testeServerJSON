@@ -13,10 +13,10 @@
       "id": 2
     },
     {
-      "nome": "Teste asasdasdfa",
-      "vencimento": "1988-02-25",
-      "preco": 25.52,
-      "id": 3
+      "nome": "teste acento",
+      "preco": 11,
+      "vencimento": "2021-02-02",
+      "id": 4
     }
   ]
 }
